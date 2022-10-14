@@ -1,4 +1,6 @@
-https://www.figma.com/file/gBENvsiYbi58D20YVFuR9j/Ignite-Lab---Design-System?node-id=0%3A1
+## Projeto no Figma
+<a href="https://www.figma.com/file/gBENvsiYbi58D20YVFuR9j/Ignite-Lab---Design-System?node-id=0%3A1">Link</a>
+
 
 <div align="center">
   <img height="60" src="https://i.imgur.com/05Qqcra.png"  />
@@ -38,7 +40,7 @@ Follow the steps below:
 $ npm i
 # Start the project
 $ npm run dev
-#Start Storybook
+# Start Storybook
 $ npm run storybook
 ```
 
