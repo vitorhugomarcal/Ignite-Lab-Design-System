@@ -1,7 +1,3 @@
-## Projeto no Figma
-<a href="https://www.figma.com/file/gBENvsiYbi58D20YVFuR9j/Ignite-Lab---Design-System?node-id=0%3A1">Link</a>
-
-
 <div align="center">
   <img height="60" src="https://i.imgur.com/05Qqcra.png"  />
 </div>
@@ -12,9 +8,8 @@
 
 ###
 
-<h3 align="center">Desktop</h3>
-
-###
+## Projeto no Figma
+<a href="https://www.figma.com/file/gBENvsiYbi58D20YVFuR9j/Ignite-Lab---Design-System?node-id=0%3A1">Link</a>
 
 <div align="center">
   <img height="350" src="https://i.imgur.com/Cx9bCuf.png"  />
